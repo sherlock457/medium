@@ -28,7 +28,7 @@ export const Appbar = () => {
         to={"/blogs"}
         className="flex flex-col justify-center cursor-pointer"
       >
-        Medium
+        MyBlog
       </Link>
       <div className="flex">
         <div>
